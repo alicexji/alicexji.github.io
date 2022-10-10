@@ -4057,6 +4057,13 @@ textarea.form-control-lg {
   text-decoration: none;
   white-space: nowrap;
 }
+
+.navbar-toptitle {
+  padding-top: 0.3125rem;
+  padding-bottom: 0.3125rem;
+  margin-right: 1rem;
+}
+
 .navbar-nav {
   display: flex;
   flex-direction: column;
