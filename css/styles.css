@@ -7821,7 +7821,7 @@ textarea.form-control-lg {
 
 .bg-image {
   --bs-bg-opacity: 1;
-  background-image: url("assets/butterflylogo.png");
+  background-image: url("assets/img/portfolio/Escape.jpg");
 }
 
 .bg-secondary {
@@ -11476,11 +11476,7 @@ html {
   }
 }
 
-.bgimage {
-    height:100vh;
-    background: url('assets/butterflylogo.png');
-    background-size:cover;
-    position:relative;
+
 }
 .portfolio .portfolio-item {
   cursor: pointer;
