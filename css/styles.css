@@ -7820,8 +7820,8 @@ textarea.form-control-lg {
 }
 
 .bg-image {
-  --bs-bg-opacity: 1;
-  background-image: url("assets/img/profile.jpg") !important;
+  
+  background-image: url("assets/faveicon.ico") !important;
 }
 
 .bg-secondary {
