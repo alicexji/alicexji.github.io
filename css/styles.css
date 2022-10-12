@@ -11472,7 +11472,7 @@ html {
 }
 
 .bgimage {
-    height:100vh;
+    height:50vh;
     background: url('assets/butterflylogo.png');
     background-size:cover;
     position:relative;
