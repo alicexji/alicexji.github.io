@@ -11470,6 +11470,13 @@ html {
     font-size: 1.5rem;
   }
 }
+
+.bgimage {
+    height:100vh;
+    background: url('assets/butterflylogo.png');
+    background-size:cover;
+    position:relative;
+}
 .portfolio .portfolio-item {
   cursor: pointer;
   position: relative;
