@@ -7819,6 +7819,11 @@ textarea.form-control-lg {
   background-color: rgba(var(--bs-primary-rgb), var(--bs-bg-opacity)) !important;
 }
 
+.bg-image {
+  --bs-bg-opacity: 1;
+  background-image: url("assets/butterflylogo.png");
+}
+
 .bg-secondary {
   --bs-bg-opacity: 1;
   background-color: rgba(var(--bs-secondary-rgb), var(--bs-bg-opacity)) !important;
@@ -11472,7 +11477,7 @@ html {
 }
 
 .bgimage {
-    height:50vh;
+    height:100vh;
     background: url('assets/butterflylogo.png');
     background-size:cover;
     position:relative;
