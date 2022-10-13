@@ -7820,9 +7820,16 @@ textarea.form-control-lg {
 }
 
 .bg-image {
-  background-image: url("assets/pinktest.png"); !important
-  
+  background-image: url("assets/pinktest.png"); !important;
 
+}
+
+.jumbotron {
+ background-image: url("assets/pinktest.png");
+ background-attachment: fixed;
+ background-position: center;
+ background-repeat: no-repeat;
+ background-size: cover;
 }
 
 .bg-secondary {
