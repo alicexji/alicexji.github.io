@@ -7820,8 +7820,9 @@ textarea.form-control-lg {
 }
 
 .bg-image {
-  --bs-bg-opacity: 1;
   background-image: url("assets/pinktest.png");
+  height: 500px;
+
 }
 
 .bg-secondary {
