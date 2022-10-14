@@ -7821,6 +7821,9 @@ textarea.form-control-lg {
 
 .bg-image {
   background-image: url("../assets/bgartsmall.jpg"); !important;
+  background-position: center;
+  background-repeat: no-repeat;
+
 
 }
 
